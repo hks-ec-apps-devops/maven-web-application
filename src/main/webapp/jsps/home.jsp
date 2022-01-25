@@ -10,10 +10,10 @@
 </head>
 <body>
 <h1 align="center">Welcome to MSS. poll SCM demo</h1>
-<h1 align="center"> Welcome to Mithun Software Solutions.......We have a demo on  DevOps Master Program on  29th jan 2022   at 7 PM IST for new batch. , This is a weekdays batch -6AM TO 7AM IST  . MSS- Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases... Some fake guys are giving the fake reviews dont believe those guys..I am requesting everyone. Please give your reviews in FB and Google.</h1>
+<h1 align="center"> Welcome to Mithun Software Solutions.......We have a demo on  DevOps Master Program on  25th Febraury 2022   at 7:30PM IST for new batch. , This is a weekdays batch -6AM TO 7:30AM IST  . MSS- Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases... Some fake guys are giving the fake reviews dont believe those guys..I am requesting everyone. Please give your reviews in FB and Google.</h1>
 <hr>
-<div style="text-align: center;">
-	<span>
+<div style="text-align: center;">22
+	<span>22
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
